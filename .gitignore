@@ -1,0 +1,14 @@
+/out/production/design-demo/com/demo/designdemo/design/create/abs/factory/AbstractFactoryDemo.class
+/out/production/design-demo/com/demo/designdemo/design/create/abs/factory/AbstractFactoryPattern.class
+/out/production/design-demo/com/demo/designdemo/design/create/abs/factory/domain/Color.class
+/out/production/design-demo/com/demo/designdemo/design/create/abs/factory/ColorFactory.class
+/out/production/design-demo/com/demo/designdemo/design/create/abs/factory/FactoryProducer.class
+/out/production/design-demo/com/demo/designdemo/design/create/abs/factory/domain/Green.class
+/out/production/design-demo/com/demo/designdemo/design/create/factory/domain/Rectangle.class
+/out/production/design-demo/com/demo/designdemo/design/create/abs/factory/domain/Red.class
+/out/production/design-demo/com/demo/designdemo/design/create/factory/domain/Shape.class
+/out/production/design-demo/com/demo/designdemo/design/create/abs/factory/ShapeFactory.class
+/out/production/design-demo/com/demo/designdemo/design/create/factory/ShapeFactory.class
+/out/production/design-demo/com/demo/designdemo/design/create/factory/domain/Square.class
+/out/production/design-demo/com/demo/designdemo/exception/SystemException.class
+/out/production/design-demo/com/demo/designdemo/exception/WrongClassNameException.class
